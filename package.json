@@ -1,10 +1,8 @@
 {
-  "name": "alloy",
-  "version": "2.5.0",
-  "description": "A web proxy.",
-  "main": "server.js",
-  "directories": {
-    "lib": "lib"
+  "name": "oweproxy",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {}
   },
   "dependencies": {
     "ws": "^7.4.3"
