@@ -1,8 +1,8 @@
 {
-  "name": "oweproxy",
+  "name": "netlify-proxy",
   "version": "1.0.0",
-  "type": "module",
   "dependencies": {
-    "ws": "^7.4.3"
+    "http-proxy-middleware": "^2.0.6",
+    "node-fetch": "^3.4.1"
   }
 }
