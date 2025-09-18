@@ -1,8 +1,11 @@
 {
-  "name": "oweproxy",
-  "version": "1.0.0",
+  "name": "alloy",
+  "version": "2.5.0",
+  "description": "A web proxy.",
+  "main": "server.js",
   "type": "module",
-  "dependencies": {}
+  "directories": {
+    "lib": "lib"
   },
   "dependencies": {
     "ws": "^7.4.3"
@@ -17,18 +20,18 @@
     "url": "git+https://github.com/titaniumnetwork-dev/alloy.git"
   },
   "keywords": [
-    "proxy",
+    "prox",
     "titanium network",
     "alloy",
-    "alloyproxy",
-    "web unblocker",
-    "unblock",
-    "web proxy",
+    "alloyprox",
+    "web unbloc",
+    "unbloc",
+    "web prox",
     "school",
     "workplace",
-    "web filter"
+    "web fi"
   ],
-  "author": "Titanium Network",
+  "author": "own",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/titaniumnetwork-dev/alloy/issues"
